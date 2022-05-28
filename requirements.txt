@@ -1,0 +1,12 @@
+pandas==1.4.0
+numpy==1.22.0
+yfinance==0.1.70
+scikit-learn==1.0.2
+seaborn==0.11.2
+pystan==2.19.1.1
+streamlit==1.8.1
+skforecast==0.4.3
+plotly==5.7.0
+pickleshare==0.7.5
+matplotlib==3.3.4
+lightgbm==3.3.2
